@@ -1,7 +1,7 @@
 # Analyser-App
 Analyser app that provides 2 different product evaluation algorithms with GUI provided by Python Kivy and KivyMD
 
-Demo Video: https://drive.google.com/file/d/1FZhhlfW0X9-dOK4sOo454Iq6moHIk4Ae/view?usp=drive_link
+[Demo Video](https://drive.google.com/file/d/1FZhhlfW0X9-dOK4sOo454Iq6moHIk4Ae/view?usp=drive_link)
 
 ## Stack
 * Python Kivy
