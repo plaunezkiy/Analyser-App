@@ -1,5 +1,8 @@
 # Analyser-App
-Analyser app that provides 2 different product evaluation algorithms with GUI provided by Python Kivy and KivyMD
+Analyser app provides 2 different product evaluation strategies using known algorithms with GUI provided by Python Kivy and KivyMD.
+The evaluation strategies are:
+- [BCG Matrix](https://www.bcg.com/about/overview/our-history/growth-share-matrix)
+- [ABC-XYZ Analysis](https://www.remira.com/en/glossary/abc-xyz-analysis)
 
 [Demo Video](https://drive.google.com/file/d/1FZhhlfW0X9-dOK4sOo454Iq6moHIk4Ae/view?usp=drive_link)
 
